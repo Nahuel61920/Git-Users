@@ -4,7 +4,7 @@
 
 Git Users created with react
 
-- **Github Api: [https://api.github.com/users]**
+- **Github Api: https://api.github.com/users**
 
 - **Preview**
 

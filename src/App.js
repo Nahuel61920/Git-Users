@@ -7,9 +7,9 @@ import Header from './Components/Header';
 function App() {
   return (
     <div>
-      <Header/>
-      <UseEffectAPI/>
-      
+      <Header />
+      <UseEffectAPI />
+
     </div>
   );
 }
